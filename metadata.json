@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý In Thẻ Chia Thuốc Y Tế Chuẩn A4",
+  "description": "Xử lý file Excel danh sách bệnh nhân, tự động chuẩn hoá tên phòng và xuất file in thẻ phát thuốc chuẩn A4 dạng lưới 21-24 thẻ/trang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
